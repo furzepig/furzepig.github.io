@@ -25,3 +25,12 @@ a lot of good love made, stories told, totem poles carved,
 telescopes built, mathematics explored, or - for those
 perverse enough to think such things worth while - a
 lot of good books written and printed, read and reread.
+
+> If you have seen these hornets, you know
+they have a bright yellow band around the abdomen.
+Plotkin discovered the function of the band. It is a photo-
+synthetic organ, like a pine needle or a salmonberry leaf.
+_Vespa Orianalis_ can operate, like a plant, directly on solar
+energy. It is, for now at least, the only animal known
+with this capacity, but in two hundred million years, its
+descendants may be among the most successiul species
